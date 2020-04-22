@@ -1,5 +1,5 @@
 # Tema-2-POO
-!!! Codul compileaza, dar nu functioneaza corect. Am probleme returnarea si folosirea pointerilor de clase diferite prin functiile getNext() si getPrev() !!!
+!!! Codul compileaza, dar nu functioneaza corect. Am probleme la returnarea si folosirea pointerilor de clase diferite prin functiile getNext() si getPrev() !!!
 
 Coada cu prioritati cu elemente de tip sir de caractere (implementata dinamic)
 Se dau urmatoarele clase:
