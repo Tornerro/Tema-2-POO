@@ -13,7 +13,6 @@ public:
     virtual ~Nod_dublu();
     void modifPrev(Nod*);
     virtual Nod* getPrev()const;
-    virtual void afisare();
 };
 
 
