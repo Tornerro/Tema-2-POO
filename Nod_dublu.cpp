@@ -24,8 +24,3 @@ Nod* Nod_dublu::getPrev() const
 {
     return this->prev;
 }
-
-void Nod_dublu::afisare()
-{
-    std::cout<<this->getInfo()<<'\n';
-}
